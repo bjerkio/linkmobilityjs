@@ -1030,10 +1030,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16":
-  version: 16.11.64
-  resolution: "@types/node@npm:16.11.64"
-  checksum: 3634477efbeb586f8cdc1baf7670d8ea89c1eba1beac0354fa9123ca193d794da84ec40d4f8a54f694587ba5469e4124ebbba37542ed88eca95a3980ec45551a
+"@types/node@npm:18":
+  version: 18.11.5
+  resolution: "@types/node@npm:18.11.5"
+  checksum: ac54e9287dd4549ea3dc8aabc0cf7bfa04c52f02925d7fd68414789617ec770f034c8ae2e111e8bd00d446a46fcac42587b5a316a1303e2f6ea094854248c9ff
   languageName: node
   linkType: hard
 
@@ -3779,7 +3779,7 @@ __metadata:
     "@cobraz/prettier": ^2.0.0
     "@tsconfig/node16-strictest-esm": ^1.0.3
     "@types/jest": ^29.1.2
-    "@types/node": 16
+    "@types/node": 18
     "@typescript-eslint/eslint-plugin": ^5.39.0
     "@typescript-eslint/parser": ^5.39.0
     dotenv-load: ^2.0.1
