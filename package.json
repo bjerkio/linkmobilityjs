@@ -28,7 +28,7 @@
     "@types/jest": "^29.1.2",
     "@types/node": "16",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
-    "@typescript-eslint/parser": "^5.39.0",
+    "@typescript-eslint/parser": "^5.53.0",
     "dotenv-load": "^2.0.1",
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
