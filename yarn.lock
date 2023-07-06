@@ -878,15 +878,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@simenandre/prettier@npm:3.0.2":
-  version: 3.0.2
-  resolution: "@simenandre/prettier@npm:3.0.2"
+"@simenandre/prettier@npm:4.1.0":
+  version: 4.1.0
+  resolution: "@simenandre/prettier@npm:4.1.0"
   dependencies:
-    prettier-plugin-organize-imports: ^3.2.2
     prettier-plugin-package-perfection: ^1.1.0
   peerDependencies:
-    prettier: ^2.8.8
-  checksum: 1aea6a011d32177e3bd499d48a8c5bf256679cd79b02613e79566379587da3ca60685a7da4d1e17ec14bf894ecbbca112ccfa0ae600c20f45be77a8deaca583a
+    prettier: ^3.0.0
+  checksum: 718fc5317dbcb0b10f72cab562442bad9c002af773d64581049794fabc726f2b9645b7a0172711934b04aa57e3327fcd1f0cce04da7302296f5670bbbd2987bc
   languageName: node
   linkType: hard
 
@@ -3997,7 +3996,7 @@ __metadata:
   resolution: "linkmobilityjs@workspace:."
   dependencies:
     "@bjerk/eslint-config": ^2.2.2
-    "@simenandre/prettier": 3.0.2
+    "@simenandre/prettier": 4.1.0
     "@tsconfig/node16-strictest-esm": ^1.0.3
     "@types/jest": ^29.1.2
     "@types/node": 18
@@ -4688,23 +4687,6 @@ __metadata:
   bin:
     prettier-package-json: bin/prettier-package-json
   checksum: 37e9e343e43943d6bfdd10bcab7daabfa4f4e70cac789991f749d82361581a8c30429f692b5bcaba3b55ceaafc41b1de51a2cdef24ecbc63ba4bac327f23cb0e
-  languageName: node
-  linkType: hard
-
-"prettier-plugin-organize-imports@npm:^3.2.2":
-  version: 3.2.2
-  resolution: "prettier-plugin-organize-imports@npm:3.2.2"
-  peerDependencies:
-    "@volar/vue-language-plugin-pug": ^1.0.4
-    "@volar/vue-typescript": ^1.0.4
-    prettier: ">=2.0"
-    typescript: ">=2.9"
-  peerDependenciesMeta:
-    "@volar/vue-language-plugin-pug":
-      optional: true
-    "@volar/vue-typescript":
-      optional: true
-  checksum: 28620ea73a0a518c93200c7ea17d38a26132db3f55a75954983dff3422d4dd2155515518422b7a68935736aa333b0406a51778053bd30133a57718090272bb5d
   languageName: node
   linkType: hard
 
