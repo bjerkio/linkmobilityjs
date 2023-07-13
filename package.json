@@ -10,9 +10,6 @@
     "node": ">=16"
   },
   "prettier": "@simenandre/prettier",
-  "eslintConfig": {
-    "extends": "@bjerk/eslint-config"
-  },
   "scripts": {
     "build": "tsc",
     "dev": "NODE_ENV=development dotenv-load nodemon src/main.ts",
